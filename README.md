@@ -1,8 +1,16 @@
-# Mark-Ajg
-Tools Crack Fb
-$ git clone https://github.com/presiden-ID/Mark-Ajg
-$ cd Mark-Ajg
-$ python crack.py
+# Cara Install Tools
+pkg update && pkg upgrade
 
-# INFORMASI
-Gunakan tools ini dengan bijak, bila di salah gunakan admin tidak bertanggung jawab oke :)
+pkg install git python
+
+pip install cython
+
+rm -rf Mark-Ajg
+
+git clone https://github.com/presiden-ID/Mark-Ajg
+# Cara Menjalankan Tools
+cd Mark-Ajg
+
+python crack.py
+# Contributors Tools
+Fall Xavierr
